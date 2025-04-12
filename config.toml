@@ -1,0 +1,9 @@
+baseURL = 'https://daritai.github.io/myblog/'
+languageCode = 'zh-tw'
+title = 'my first blog '
+theme = 'PaperMod'
+
+[params]
+  author = 'Blitta'
+  ShowBreadCrumbs = true
+  ShowReadingTime = true

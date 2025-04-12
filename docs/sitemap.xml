@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://daritai.github.io/myblog/</loc>
+    <lastmod>2025-04-12T15:42:38+08:00</lastmod>
+  </url><url>
+    <loc>https://daritai.github.io/myblog/posts/</loc>
+    <lastmod>2025-04-12T15:42:38+08:00</lastmod>
+  </url><url>
+    <loc>https://daritai.github.io/myblog/categories/</loc>
+  </url><url>
+    <loc>https://daritai.github.io/myblog/tags/</loc>
+  </url>
+</urlset>
