@@ -2,13 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://daritai.github.io/myblog/</loc>
-    <lastmod>2025-04-12T20:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://daritai.github.io/myblog/posts/</loc>
-    <lastmod>2025-04-12T20:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://daritai.github.io/myblog/categories/</loc>
+  </url><url>
+    <loc>https://daritai.github.io/myblog/</loc>
   </url><url>
     <loc>https://daritai.github.io/myblog/tags/</loc>
   </url>
