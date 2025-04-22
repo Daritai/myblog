@@ -4,6 +4,6 @@ title = 'my first blog '
 theme = 'PaperMod'
 
 [params]
-  author = 'Blitta'
+  author = 'Diko'
   ShowBreadCrumbs = true
   ShowReadingTime = true
